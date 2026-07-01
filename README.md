@@ -1,125 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Devidutta%20Das&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pruthwyi">
-    <img src="https://komarev.com/ghpvc/?username=devidutta3&label=Profile%20views&color=00FFFF&style=flat-square" alt="devidutta3's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Hi, I'm Devidutta Das, an Engineer and the Founder of CodeUdaan.
-- I'm passionate about technology, software development, and building solutions that create real impact. Through CodeUdaan, I aim to help developers learn, grow, and innovate by sharing knowledge and creating meaningful projects.
-- 🚀 Founder of CodeUdaan
-- 💻 Engineer and Technology Enthusiast
-- 🌱 Continuously learning and exploring new technologies
-- 🤝 Open to collaboration on innovative projects
-- 📚 Passionate about problem-solving and knowledge sharing
-- My Mission
-- To empower aspiring developers and contribute to the tech community by building useful products, sharing insights, and fostering continuous learning.
+# 💫 About Me:
+# Hi there, I'm Prithwyi 👋<br><br>* 🎓 Computer Science Student<br>* 💻 Passionate about Software Development, AI, Robotics, and Automation<br>* 🐍 Currently learning Python, C, Data Structures & Algorithms, and Machine Learning<br>* 📊 Exploring Data Science and Algorithmic Trading<br>* 🚀 Building projects to enhance my technical and problem-solving skills<br>* 👥 **Core Member** at **CodeUdaan**, contributing to technical initiatives and community-driven learning<br>* 🌱 Always eager to learn new technologies and collaborate on innovative projects<br>* 🤝 Open to internships, open-source contributions, and collaborations<br><br>### 🎯 Goals<br><br>* Build impactful real-world software projects<br>* Contribute to open-source communities<br>* Strengthen my development and problem-solving skills<br>* Grow as an AI & Robotics Engineer<br>* Create technology that makes a positive impact<br><br>> *Till then, keep coding, keep growing.* 🚀<br>
 
 
-## 🧠 My Focus Areas
-- 🚀 Building CodeUdaan to empower developers.
-- 💻 Developing scalable software solutions.
-- 🤖 Exploring Artificial Intelligence and automation.
-- 🌐 Creating impactful web applications.
-- 📚 Sharing knowledge through developer education.
-- 🤝 Building and growing tech communities.
-- 🔓 Contributing to open-source projects.
-- 🎯 Solving real-world problems with technology.
-- Innovation Through Technology
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gs-gammer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeUdaan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GS Pruthwyi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsgsmmer27@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pruthwyi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pruthwyi&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pruthwyi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/devidutta3">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devidutta3&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="devidutta3's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=devidutta3&theme=github_dark&hide_border=true&cache_seconds=86400" alt="devidutta3's GitHub Streak" width="49%" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pruthwyi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=devidutta3&theme=github_dark&radius=10" alt="devidutta3's Activity Graph" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=pruthwyi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/devidutta3">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devidutta3&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=devidutta3)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/devidutta-das-07a15b358/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@codeudaan">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dasdevidutta3@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
